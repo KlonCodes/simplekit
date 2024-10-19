@@ -23,7 +23,7 @@ export class SKLabel extends SKElement {
     this.align = align;
 
     // defaults
-    this.fill = "orange";
+    this.fill = "blue";
     this.border = "";
   }
 
